@@ -3,6 +3,9 @@ Server-Sent Events(SSE)のサンプルコード
 
 SSEによってブラウザ上の時刻が一定時刻ごとに更新される
 
+./public/sse-image.pngを表示
+![デモイメージ](./public/sse-image.png "サンプル")
+
 # 手順
 ```
 npm install
